@@ -1,2 +1,2 @@
 # riddle
-Blog de Riddle
+Blog de Riddle hecho con Symfony
